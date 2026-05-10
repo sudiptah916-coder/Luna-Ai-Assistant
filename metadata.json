@@ -1,0 +1,7 @@
+{
+  "name": "Luna - Your Loving AI Companion",
+  "description": "A warm, loving, and playfully flirty AI voice assistant who speaks English, Bengali, and Hindi.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
